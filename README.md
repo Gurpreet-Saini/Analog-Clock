@@ -1,4 +1,4 @@
-# analogue clock
+# Analogue Clock
 
 An analogue clock that uses JavaScript and the Canvas Web API
 
